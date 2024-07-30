@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.ingagee.aapp",
+    "package_name": "com.iywi.app.dev",
     "sha256_cert_fingerprints":
-    ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
+    ["3D:1B:04:AE:0E:2A:2A:44:74:2A:98:CF:EB:18:31:6F:25:69:6C:4E:CD:7D:82:2E:30:9F:38:7F:8B:8B:88:E0"]
   }
 }]
