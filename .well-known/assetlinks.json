@@ -1,9 +1,11 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.iywi.app.dev",
-    "sha256_cert_fingerprints":
-    ["3D:1B:04:AE:0E:2A:2A:44:74:2A:98:CF:EB:18:31:6F:25:69:6C:4E:CD:7D:82:2E:30:9F:38:7F:8B:8B:88:E0"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.iywi.app.dev",
+      "sha256_cert_fingerprints":
+        ["04:C3:10:D0:5D:C8:DB:B5:73:35:B1:9D:86:1B:B9:F4:F6:31:DC:B1:FD:AF:0D:EE:16:02:24:86:65:ED:20:90"]
+    }
   }
-}]
+]
