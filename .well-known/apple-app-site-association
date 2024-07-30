@@ -1,11 +1,10 @@
-{
+  {
     "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "VR3V98ZJ.org.chennaimetrorail.mapp",
-                "paths": ["*"]
-            }
-        ]
+      "details": [
+        {
+          "appIDs": ["C4FSSH2D9U.com.iywi.app.dev"],
+          "paths": ["*"]
+        }
+      ]
     }
-}
+  }
